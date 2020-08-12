@@ -5,7 +5,7 @@ For the scope of this project hashtags will be given from an input file.
 Basic idea for the implementation is to use a max priority structure to find out the most popular hashtags.
 
 <h3>Data Structures  used for implementation</h3>
-- Max Fibonacci heap: use to keep track of the frequencies of hashtags.
+- Max Fibonacci heap: use to keep track of the frequencies of hashtags. <br />
 - Hash table: The key for the hashtable is the hashtag,and the value is the pointer to the corresponding node in the Fibonacci heap.
 
 **Assumption**
