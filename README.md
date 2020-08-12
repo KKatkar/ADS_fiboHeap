@@ -11,4 +11,4 @@ Basic idea for the implementation is to use a max priority structure to find out
 **Assumption**
 There will be a large number of hashtags appearing in the stream and the increase key operation will be performed many times.
 
-__Max Fibonacciheap is recommended because it has an amortized complexity of O(1) fortheincrease key operation.__
+__Max Fibonacci heap is recommended because it has an amortized complexity of O(1) for the increase key operation.__
